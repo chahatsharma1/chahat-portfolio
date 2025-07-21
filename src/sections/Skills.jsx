@@ -47,7 +47,6 @@ export default function Skills() {
                 { 'name': 'AWS', 'icon': 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg' },
                 { 'name': 'Microsoft Azure', 'icon': 'azure' },
                 { 'name': 'Firebase', 'icon': 'firebase' },
-                { 'name': 'Terraform', 'icon': 'terraform' },
             ]} />
             <SkillCard heading='Tools' hcolor="var(--clr-accent6)" skills={[
                 { 'name': 'VS Code', 'icon': 'vscode' },

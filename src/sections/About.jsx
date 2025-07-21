@@ -16,7 +16,7 @@ export default function About() {
                 Whether it is designing intuitive UIs, managing cloud deployments, or optimizing APIs for performance — I’m always excited to take on the next challenge.
             </p>
             <p>Let’s build something great! ✨</p>
-            <a href="https://drive.google.com/file/d/14HE-fvEksHNvhSeAaOcr4--Ymp6VpuyT/view?usp=sharing" target='_blank'>
+            <a href="https://drive.google.com/file/d/1YdRED6uvKP_O51iYSDP2rOZLoR3WKB5c/view?usp=sharing" target='_blank'>
                 <Button1>
                     <SvgIcon icon={Pdf} />
                     Resume
