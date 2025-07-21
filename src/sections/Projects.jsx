@@ -62,7 +62,7 @@ export default function Projects() {
               <Tag hashtag="Vite" />
             </Tags>
           </Content>
-          <CardActions visit="https://chahat-portfolio-1001.web.app" source="https://github.com/chahatsharma1/chahat-portfolio" />
+          <CardActions source="https://github.com/chahatsharma1/chahat-portfolio" />
         </ProjectCard>
       </Holder>
     </div>
