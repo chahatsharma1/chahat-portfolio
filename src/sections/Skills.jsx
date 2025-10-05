@@ -8,7 +8,6 @@ export default function Skills() {
             <SkillCard heading='Language' hcolor="var(--clr-accent1)" skills={[
                 { 'name': 'Java', 'icon': 'java' },
                 { 'name': 'JavaScript', 'icon': 'javascript' },
-                { 'name': 'Python', 'icon': 'python' },
                 { 'name': 'SQL', 'icon': 'azuresqldatabase' }
             ]} />
 

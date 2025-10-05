@@ -52,6 +52,21 @@ export default function Project() {
                     <CardActions visit="https://library-management-1001.web.app" source="https://github.com/chahatsharma1/digital-library" />
                 </ProjectCard>
                 <ProjectCard>
+                    <img src={'sweetshop.png'} alt='Sweet Shop' />
+                    <Content>
+                        <h3>Sweet Shop</h3>
+                        <p>A full-stack web application for managing a sweet shop's inventory, sales, and user access, built with Spring Boot and React.</p>
+                        <Tags>
+                            <Tag hashtag="Java" />
+                            <Tag hashtag="Spring Boot" />
+                            <Tag hashtag="React" />
+                            <Tag hashtag="Tailwind CSS" />
+                            <Tag hashtag="PostgreSQL" />
+                        </Tags>
+                    </Content>
+                    <CardActions visit="https://sweet-shop10.web.app" source="https://github.com/chahatsharma1/sweet-shop" />
+                </ProjectCard>
+                <ProjectCard>
                     <img src={'portfolio.png'} alt='Portfolio' />
                     <Content>
                         <h3>Chahat's Personal Portfolio</h3>
