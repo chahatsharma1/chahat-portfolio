@@ -22,6 +22,21 @@ export default function Project() {
                     <CardActions visit="https://trading-project-1001-ffdf1.web.app" source="https://github.com/chahatsharma1/trading-platform" />
                 </ProjectCard>
                 <ProjectCard>
+                    <img src={'nasa.png'} alt='Nasa' />
+                    <Content>
+                        <h3>NASA APOD Explorer</h3>
+                        <p>A full-stack web application that lets users explore NASA’s Astronomy Picture of the Day (APOD). It is featuring a robust Spring Boot backend for handling API interactions and a modern, responsive React frontend and Caffeine based caching. </p>
+                        <Tags>
+                            <Tag hashtag="Java" />
+                            <Tag hashtag="Spring Boot" />
+                            <Tag hashtag="React" />
+                            <Tag hashtag="Tailwind CSS" />
+                            <Tag hashtag="Caffeine" />
+                        </Tags>
+                    </Content>
+                    <CardActions visit="https://nasa-apod-480816.web.app" source="https://github.com/chahatsharma1/nasa-apod-explorer" />
+                </ProjectCard>
+                <ProjectCard>
                     <img src={'premier.png'} alt='Premier' />
                     <Content>
                         <h3>Premier Zone</h3>
