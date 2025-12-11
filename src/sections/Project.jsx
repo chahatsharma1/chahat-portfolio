@@ -40,7 +40,7 @@ export default function Project() {
                     <img src={'premier.png'} alt='Premier' />
                     <Content>
                         <h3>Premier Zone</h3>
-                        <p>A fun Spring Boot + React app that shows stats for your favorite Premier League players. Clean UI, live search, and smooth user experience — perfect for football fans who love data and are premier league fans.</p>
+                        <p>A fun Spring Boot + React app that shows stats for your favorite Premier League players. Clean UI, live search, and smooth user experience - perfect for football fans who love data and are premier league fans.</p>
                         <Tags>
                             <Tag hashtag="Java" />
                             <Tag hashtag="Spring Boot" />
