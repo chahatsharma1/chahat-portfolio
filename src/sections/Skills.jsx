@@ -54,7 +54,7 @@ export default function Skills() {
                 { 'name': 'Swagger', 'icon': 'swagger' },
             ]} />
             <SkillCard heading='Automation' hcolor="var(--clr-sec)" skills={[
-                { 'name': 'OpenAI', 'icon': 'https://simpleicons.org/icons/openai.svg' },
+                { 'name': 'OpenAI', 'icon': 'https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg' },
                 { 'name': 'Gemini', 'icon': 'https://simpleicons.org/icons/googlegemini.svg' },
             ]} />
 
